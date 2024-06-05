@@ -1,3 +1,18 @@
+<hr>
+
+Personal Mod with a custom font config. To build with docker run:
+
+```bash
+bash private-build.sh
+
+# CPU & RAM intensive build
+
+# results
+cd ./dist
+```
+
+<hr>
+
 <p align="center"> <img src="images/grand-title.light.svg#gh-light-mode-only" title="Iosevka Grand Title"><img src="images/grand-title.dark.svg#gh-dark-mode-only" title="Iosevka Grand Title"/> </p>
 
 ------------
