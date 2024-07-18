@@ -6,6 +6,8 @@ Personal Mod with a custom font config. To build with docker run:
 bash private-build.sh
 
 # CPU & RAM intensive build
+# If build fails, make sure there is 1GB of RAM for every core on your machine
+# e.g. 12 cores -> 12GB Docker VM RAM space.
 
 # results
 cd ./dist
